@@ -23,5 +23,6 @@
     </dependencies>
     <build>
         <finalName>restapi</finalName>
+        <sourceDirectory>${project.basedir}/src/main/kotlin</sourceDirectory>
     </build>
 </project>
